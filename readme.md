@@ -1,1 +1,1 @@
-# UISplitViewController example in rubymotion
+UISplitViewController example in rubymotion
