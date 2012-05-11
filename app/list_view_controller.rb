@@ -8,8 +8,8 @@ class ListViewController < UITableViewController
   def shouldAutorotateToInterfaceOrientation(*)
     true
   end
-  
-  def numberOfSetionsInTableView(tableView)
+
+  def numberOfSectionsInTableView(tableView)
     1
   end
   
